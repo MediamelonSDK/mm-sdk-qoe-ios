@@ -18,23 +18,23 @@
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Headers/objc_mmsmartstreaming.h</key>
 		<data>
-		UPsGpWqJLkFaa8KKqz3kaEIEiA8=
+		AKO1fyezpkc82ogbFcAehg04n84=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Info.plist</key>
 		<data>
-		/nVvwt6lk6j94PkqZKO2tINTKHQ=
+		27Pjmm85FuFrr91jI/q743fDD6k=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/MediaMelonQoE</key>
 		<data>
-		k3wPs/plMH4ao4JcOQmNEZKWKic=
+		2pXc29IyBunibwuR4R7tWyANccw=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3jQ6ZKAjYnFpVBpLtaj9ABiWhhA=
+		H2ulunYky7wNcCKq7x/Y7AZA8CQ=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zN5RHGPQ0G647wx7m0u3j2H4boE=
+		G6Bac/IyfMAQ12ymwKETjLFpRSM=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zN5RHGPQ0G647wx7m0u3j2H4boE=
+		G6Bac/IyfMAQ12ymwKETjLFpRSM=
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/MediaMelonQoE.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TsUCdYdUYyUUrQQliHwC6+8kmHc=
+		cR5P5Sv08ZzCsSSu6mugVwvgWfQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Headers/MMSmartStreaming.h</key>
 		<data>
@@ -66,23 +66,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Headers/objc_mmsmartstreaming.h</key>
 		<data>
-		UPsGpWqJLkFaa8KKqz3kaEIEiA8=
+		AKO1fyezpkc82ogbFcAehg04n84=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Info.plist</key>
 		<data>
-		iWrR1JBsOMsNTUjn5fbwBqcseRw=
+		+UaLN2egNmQOMxR6TigAunH00OQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/MediaMelonQoE</key>
 		<data>
-		Cns9CpCuBeffrhGhnexSr5AqWOA=
+		B0iLnGDICDS/OiscYlkrZ/pQeOU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3jQ6ZKAjYnFpVBpLtaj9ABiWhhA=
+		H2ulunYky7wNcCKq7x/Y7AZA8CQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yhvye5nO9622qB7vTijnU+boKfU=
+		mCcMNF6TzgPqOPAAQR43u/3IArk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yhvye5nO9622qB7vTijnU+boKfU=
+		mCcMNF6TzgPqOPAAQR43u/3IArk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6YAcR9as7x8TXHhxLF03dWF6Ivs=
+		LYj7XSa0QZB97R7/kWPPqEGsMIE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tMsZpr8oPrk6PsLE7J4AX3T8r4A=
+		slJwGtLu45rqMM92+66ZAj4a76E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tMsZpr8oPrk6PsLE7J4AX3T8r4A=
+		slJwGtLu45rqMM92+66ZAj4a76E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/module.modulemap</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/_CodeSignature/CodeResources</key>
 		<data>
-		K46gnr7FmOh2myntSUkBow1QrCk=
+		GqNMQ3ztT+EIlpmsJ5XzB2ld1Pk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -156,55 +156,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UPsGpWqJLkFaa8KKqz3kaEIEiA8=
+			AKO1fyezpkc82ogbFcAehg04n84=
 			</data>
 			<key>hash2</key>
 			<data>
-			YlVhOr6/pHVLqzsHSONqJvDAFWtzqUZ+Uotwh5qsp34=
+			vcfvH6uCRH0ZfiOibMUex2YAt3+aDZhn+u6aq2jRpOY=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/nVvwt6lk6j94PkqZKO2tINTKHQ=
+			27Pjmm85FuFrr91jI/q743fDD6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMam5CV+8RJ/GnXnRMAXF49hV+aVBUljTUy5J5E/tQI=
+			+kd3vWTPMF2YmShMSdFB1K3IoJwazeJFQbsZjfUOkzU=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/MediaMelonQoE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k3wPs/plMH4ao4JcOQmNEZKWKic=
+			2pXc29IyBunibwuR4R7tWyANccw=
 			</data>
 			<key>hash2</key>
 			<data>
-			DhZY/SyGLSPmR1+Z2Mv/SzOPaFHLvkPeKvGDQ+g0CF8=
+			iInsDOm9WfZqkM/QeCAG5keSelcVPvZ4P3mdlpBADZc=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3jQ6ZKAjYnFpVBpLtaj9ABiWhhA=
+			H2ulunYky7wNcCKq7x/Y7AZA8CQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			I30kawDEGfSZFdw4v092GL+g/OnMmvLqUheaYXtCmXs=
+			igQwGefrw0E8A9LJuGljCxGCZC9GnsbnfyQzNSVD7Vs=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zN5RHGPQ0G647wx7m0u3j2H4boE=
+			G6Bac/IyfMAQ12ymwKETjLFpRSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xqkYxDnEbaPTgcJIdJk6al1Ul6bHuguB6cec+VzQ+hk=
+			y1rwhEpxv+FN/Nejy/22uvISD36LUTdb7TizHlnhUPA=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -222,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zN5RHGPQ0G647wx7m0u3j2H4boE=
+			G6Bac/IyfMAQ12ymwKETjLFpRSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xqkYxDnEbaPTgcJIdJk6al1Ul6bHuguB6cec+VzQ+hk=
+			y1rwhEpxv+FN/Nejy/22uvISD36LUTdb7TizHlnhUPA=
 			</data>
 		</dict>
 		<key>ios-arm64/MediaMelonQoE.framework/Modules/module.modulemap</key>
@@ -244,11 +244,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TsUCdYdUYyUUrQQliHwC6+8kmHc=
+			cR5P5Sv08ZzCsSSu6mugVwvgWfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			oQ6RLVCqyQK6aLrLPv9un/Wgqmm/TRkrf8gjAOGjTBQ=
+			nXQcKV1opKAX9zI2sX2vI2up4fEGA+ccNF5z4CwXABQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Headers/MMSmartStreaming.h</key>
@@ -288,55 +288,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UPsGpWqJLkFaa8KKqz3kaEIEiA8=
+			AKO1fyezpkc82ogbFcAehg04n84=
 			</data>
 			<key>hash2</key>
 			<data>
-			YlVhOr6/pHVLqzsHSONqJvDAFWtzqUZ+Uotwh5qsp34=
+			vcfvH6uCRH0ZfiOibMUex2YAt3+aDZhn+u6aq2jRpOY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iWrR1JBsOMsNTUjn5fbwBqcseRw=
+			+UaLN2egNmQOMxR6TigAunH00OQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8KG9yHiX0/fp3Z7jyfNdN+g+gmlHMKI8BqyEAUDr2xM=
+			VjEBmMN2lHNfH36UbZV5Wn3l13ne4pLx48GSHeq/yC0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/MediaMelonQoE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cns9CpCuBeffrhGhnexSr5AqWOA=
+			B0iLnGDICDS/OiscYlkrZ/pQeOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4xPSFIAxyEBSlByQuuQK+KuuNuXl4PDNuDQ2X2Rqd+c=
+			bFjeW9RFapZfYf4DYqwBhygPU7lp37WIzPXgOn289cY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3jQ6ZKAjYnFpVBpLtaj9ABiWhhA=
+			H2ulunYky7wNcCKq7x/Y7AZA8CQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			I30kawDEGfSZFdw4v092GL+g/OnMmvLqUheaYXtCmXs=
+			igQwGefrw0E8A9LJuGljCxGCZC9GnsbnfyQzNSVD7Vs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yhvye5nO9622qB7vTijnU+boKfU=
+			mCcMNF6TzgPqOPAAQR43u/3IArk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rsBCgp+Cil1/fDAIVjntSt7TQx36/Y6FF+RM4MH25Rk=
+			gsc7VsQ3bIyGNflFevjpEvqGynqKg46XuO4QJZn7mD4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -354,33 +354,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yhvye5nO9622qB7vTijnU+boKfU=
+			mCcMNF6TzgPqOPAAQR43u/3IArk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rsBCgp+Cil1/fDAIVjntSt7TQx36/Y6FF+RM4MH25Rk=
+			gsc7VsQ3bIyGNflFevjpEvqGynqKg46XuO4QJZn7mD4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6YAcR9as7x8TXHhxLF03dWF6Ivs=
+			LYj7XSa0QZB97R7/kWPPqEGsMIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			g9XR6Dq+TO3VHOPiwWE0x3Y7gTTMM/7qZ8cTXKEXaWM=
+			0fbW6Pu9Is4IHPY5/3eMmjpp2LbKyMaBFC4RnUnJrsM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tMsZpr8oPrk6PsLE7J4AX3T8r4A=
+			slJwGtLu45rqMM92+66ZAj4a76E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cp5KfraVCcYWGUcTTJq8eGN8bT/Tdd+nMA8uEf/CgTc=
+			vgrd/iBsIWGJahAwFRk+a3P6mwmyDYUUGcOQyHOK25M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -398,11 +398,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tMsZpr8oPrk6PsLE7J4AX3T8r4A=
+			slJwGtLu45rqMM92+66ZAj4a76E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cp5KfraVCcYWGUcTTJq8eGN8bT/Tdd+nMA8uEf/CgTc=
+			vgrd/iBsIWGJahAwFRk+a3P6mwmyDYUUGcOQyHOK25M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MediaMelonQoE.framework/Modules/module.modulemap</key>
@@ -420,11 +420,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K46gnr7FmOh2myntSUkBow1QrCk=
+			GqNMQ3ztT+EIlpmsJ5XzB2ld1Pk=
 			</data>
 			<key>hash2</key>
 			<data>
-			D9m+GoBmnOqBRGdoltfgLPmB42XHIT8JqyCsWwjJ0f8=
+			05SqNv4ve839jBqFXAy3ahTbx7iyiV/foTAt6trUjRQ=
 			</data>
 		</dict>
 	</dict>

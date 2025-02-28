@@ -6567,6 +6567,156 @@
           },
           {
             "kind": "Function",
+            "name": "reportExperimentName",
+            "printedName": "reportExperimentName(experimentName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17MediaMelonQoEtvOS16GenericMMWrapperC20reportExperimentName010experimentJ0ySSSg_tF",
+            "mangledName": "$s17MediaMelonQoEtvOS16GenericMMWrapperC20reportExperimentName010experimentJ0ySSSg_tF",
+            "moduleName": "MediaMelonQoEtvOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reportSubPropertyID",
+            "printedName": "reportSubPropertyID(subPropertyId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17MediaMelonQoEtvOS16GenericMMWrapperC19reportSubPropertyID03subJ2IdySSSg_tF",
+            "mangledName": "$s17MediaMelonQoEtvOS16GenericMMWrapperC19reportSubPropertyID03subJ2IdySSSg_tF",
+            "moduleName": "MediaMelonQoEtvOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reportViewSessionID",
+            "printedName": "reportViewSessionID(viewSessionId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17MediaMelonQoEtvOS16GenericMMWrapperC19reportViewSessionID04viewJ2IdySSSg_tF",
+            "mangledName": "$s17MediaMelonQoEtvOS16GenericMMWrapperC19reportViewSessionID04viewJ2IdySSSg_tF",
+            "moduleName": "MediaMelonQoEtvOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reportBasePlayerInfo",
+            "printedName": "reportBasePlayerInfo(basePlayerName:basePlayerVersion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17MediaMelonQoEtvOS16GenericMMWrapperC20reportBasePlayerInfo04baseJ4Name0lJ7VersionySSSg_AGtF",
+            "mangledName": "$s17MediaMelonQoEtvOS16GenericMMWrapperC20reportBasePlayerInfo04baseJ4Name0lJ7VersionySSSg_AGtF",
+            "moduleName": "MediaMelonQoEtvOS",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "reportUserInitiatedPlayback",
             "printedName": "reportUserInitiatedPlayback()",
             "children": [
@@ -7085,198 +7235,198 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMAssetInformation.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMAssetInformation.swift",
       "kind": "StringLiteral",
       "offset": 204,
       "length": 18,
       "value": "\"MediaMelonQoEtvOS.MMAssetInformation\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
       "kind": "StringLiteral",
       "offset": 1650,
       "length": 33,
       "value": "\"ReachabilityChangedNotification\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
       "kind": "BooleanLiteral",
       "offset": 3360,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
       "kind": "BooleanLiteral",
       "offset": 3431,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/ReachabilityMM.swift",
       "kind": "StringLiteral",
       "offset": 3569,
       "length": 32,
       "value": "\"uk.co.ashleymills.reachability\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 400,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "IntegerLiteral",
       "offset": 492,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8331,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8352,
       "length": 13,
       "value": "\"apple TV HD\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8383,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8404,
       "length": 13,
       "value": "\"apple TV 4K\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8435,
       "length": 13,
       "value": "\"AppleTV11,1\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8457,
       "length": 15,
       "value": "\"apple TV 4K 2\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8490,
       "length": 13,
       "value": "\"AppleTV14,1\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8512,
       "length": 15,
       "value": "\"apple TV 4K 3\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8545,
       "length": 6,
       "value": "\"i386\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8553,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8570,
       "length": 105,
       "value": "\"Simulator \""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8633,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8666,
       "length": 6,
       "value": "\"tvOS\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/UIDeviceExtension+ModelName.swift",
       "kind": "StringLiteral",
       "offset": 8674,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
       "kind": "StringLiteral",
       "offset": 319,
       "length": 34,
       "value": "\"EXTERNAL-SUBSCRIBER-ID-ADDEDDATE\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 24,
       "value": "\"EXTERNAL-SUBSCRIBER-ID\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Common\/MMRegistrationInformation.swift",
       "kind": "StringLiteral",
       "offset": 211,
       "length": 25,
       "value": "\"MediaMelonQoEtvOS.MMRegistrationInformation\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 1356,
+      "offset": 1350,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 1392,
+      "offset": 1386,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 1490,
+      "offset": 1484,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/aashishkumar\/iosrepo\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
+      "filePath": "\/Users\/aashishkumar\/ios-mmgenericframework\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 16255,
+      "offset": 16933,
       "length": 5,
       "value": "false"
     }

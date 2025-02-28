@@ -560,7 +560,16 @@ typedef NS_ENUM(NSInteger, MMSmartStreamingInitializationStatus){
  * @param screenHeight Device screen / display window vertical resolution (in integer pixels).
  *                     If not known, set it to -1.
  */
+
 +(void) reportDeviceInfoWithBrandName:(NSString*) brand deviceModel:(NSString*)deviceModel osName:(NSString*)os osVersion:(NSString*)osVersion telOperator:(NSString*)telOper screenWidth:(NSInteger)screenWidth screenHeight:(NSInteger)screenHeight andType:(NSString*)type;
+
++(void) reportExperimentNameWithExperimentName:(NSString*)experimentName;
+
++(void) reportSubPropertyIDWithSubPropertyId:(NSString*)subPropertyId;
+
++(void) reportViewSessionIDWithViewSessionId:(NSString*)viewSessionId;
+
++(void) reportBasePlayerInfoWithBasePlayerName:(NSString*)basePlayerName basePlayerVersion:(NSString*)basePlayerVersion;
 
 /**
  * Reports the media player characteristics to analytics.
