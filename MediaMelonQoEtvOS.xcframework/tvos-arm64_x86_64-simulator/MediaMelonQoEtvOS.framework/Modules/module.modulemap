@@ -1,6 +1,0 @@
-framework module MediaMelonQoEtvOS {
-  umbrella header "MediaMelonQoEtvOS.h"
-  export *
-
-  module * { export * }
-}
