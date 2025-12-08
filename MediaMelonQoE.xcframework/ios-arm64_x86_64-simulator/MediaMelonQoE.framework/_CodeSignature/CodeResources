@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AcuMSUJ97LgvPbMNQsnHzltixxg=
+		Fg5GorPJ+4x6OZiYvySTbMcfZnw=
 		</data>
 		<key>Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ubanphgVNwssb+l9ZZ9Naj+ru1A=
+		hpC6EBoSctzO87UQahqBYe9Lf+Y=
 		</data>
 		<key>Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ubanphgVNwssb+l9ZZ9Naj+ru1A=
+		hpC6EBoSctzO87UQahqBYe9Lf+Y=
 		</data>
 		<key>Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hTxyQWCjFVUekowkHZl1SW1nWa16z4SRk+0O4j/YzvY=
+			ChjXh/l+sN5GZPsjmHCnoflM4wmaTvuLTh8iCsAjQg8=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonQoE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -138,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hTxyQWCjFVUekowkHZl1SW1nWa16z4SRk+0O4j/YzvY=
+			ChjXh/l+sN5GZPsjmHCnoflM4wmaTvuLTh8iCsAjQg8=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonQoE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

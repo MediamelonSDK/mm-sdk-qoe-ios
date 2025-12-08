@@ -5820,7 +5820,8 @@
             "mangledName": "$s13MediaMelonQoE16GenericMMWrapperC14reportDeviceID06deviceH0ySS_tF",
             "moduleName": "MediaMelonQoE",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -11427,14 +11428,14 @@
     {
       "filePath": "\/Users\/mm3\/Desktop\/mm-ios-player-sdk\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 4153,
+      "offset": 4223,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mm3\/Desktop\/mm-ios-player-sdk\/MMGenericFramework\/MMGenericFramework\/Classes\/Wrapper\/GenericMMWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 17692,
+      "offset": 17762,
       "length": 5,
       "value": "false"
     },
